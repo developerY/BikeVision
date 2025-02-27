@@ -22,6 +22,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		5E2BB1BB2D6EC76000E5FA99 /* bike.reality */ = {isa = PBXFileReference; lastKnownFileType = file; path = bike.reality; sourceTree = "<group>"; };
 		5E2C865D2D6BDEE600EAFF90 /* BikeVision.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BikeVision.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5E2C86612D6BDEE600EAFF90 /* RealityKitContent */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = RealityKitContent; sourceTree = "<group>"; };
 		5E2C86782D6BDEE800EAFF90 /* BikeVisionTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BikeVisionTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -96,6 +97,7 @@
 		5E2C86602D6BDEE600EAFF90 /* Packages */ = {
 			isa = PBXGroup;
 			children = (
+				5E2BB1BB2D6EC76000E5FA99 /* bike.reality */,
 				5E2C86612D6BDEE600EAFF90 /* RealityKitContent */,
 			);
 			path = Packages;
